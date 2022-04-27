@@ -1,0 +1,3 @@
+start:
+	npx hardhat node
+
